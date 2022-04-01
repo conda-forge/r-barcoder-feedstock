@@ -3,7 +3,7 @@ About r-barcoder
 
 Home: https://github.com/yihanwu/baRcodeR
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-barcoder-feedstock/blob/main/LICENSE.txt)
 
