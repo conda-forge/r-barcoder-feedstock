@@ -1,11 +1,11 @@
-About r-barcoder
-================
+About r-barcoder-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-barcoder-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/yihanwu/baRcodeR
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-barcoder-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools to generate unique identifiers and printable barcoded labels for sample management.  The creation of unique ID codes and printable PDF files can be initiated by standard commands,  user prompts, or through a GUI addin for R Studio. Both single-level and hierarchical labels can  be created in the command line interactively or non-interactively. 
 
