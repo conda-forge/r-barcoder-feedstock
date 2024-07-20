@@ -1,6 +1,5 @@
 {% set version = "0.1.7" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-barcoder
@@ -13,8 +12,7 @@ source:
   sha256: dc58b650039f243eb5da8b20b2cd3a4d665197183a1094826ee65f78f96a2ca5
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
